@@ -264,6 +264,6 @@ const char* const SEED_NODES[] = {
     "atlantic.bloc.money:2082",//atlantic
     "pacific.bloc.money:2082",//pacific
  	"baltic.bloc.money:2082",//baltic
- 	"europe.bloc.money:2082"//europe
+ 	"europe.bloc.money:2082"//europe1
 };
 } // CryptoNote
