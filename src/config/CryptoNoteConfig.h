@@ -261,8 +261,9 @@ const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 };
 
 const char* const SEED_NODES[] = {
-    "atlantic.bloc.money:2082",//atlantic
-    "pacific.bloc.money:2082",//pacific
+	"blocmoney.co.uk:2082",//Newteam
+    	"atlantic.bloc.money:2082",//atlantic
+   	"pacific.bloc.money:2082",//pacific
  	"baltic.bloc.money:2082",//baltic
  	"europe.bloc.money:2082"//europe1
 };
