@@ -253,8 +253,8 @@ const uint64_t DATABASE_READ_BUFFER_MB_DEFAULT_SIZE          = 10;
 const uint32_t DATABASE_DEFAULT_MAX_OPEN_FILES               = 100;
 const uint16_t DATABASE_DEFAULT_BACKGROUND_THREADS_COUNT     = 2;
 
-const char     LATEST_VERSION_URL[]                          = "https://bloc.money/download";
-const std::string LICENSE_URL                                = "https://github.com/furiousteam/BLOC/blob/master/LICENSE";
+const char     LATEST_VERSION_URL[]                          = "https://blocmoney.co.uk/download";
+const std::string LICENSE_URL                                = "https://github.com/TheBlocMoney/BLOC/blob/master/LICENSE";
 const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 {
     {  0x21, 0x21, 0x32, 0xf2, 0x2f, 0x29, 0x2c, 0x23, 0x22, 0x8f, 0x8c, 0x12, 0x37, 0x27, 0x9d, 0x98  }
