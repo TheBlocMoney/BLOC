@@ -2,8 +2,8 @@
 #define STR(x) STR_HELPER(x)
 
 #define PROJECT_NAME "BLOC"
-#define PROJECT_SITE "http://www.bloc.money"
-#define PROJECT_COPYRIGHT "Copyright 2019, The BLOC Developers"
+#define PROJECT_SITE "http://TheBlocMoney.com"
+#define PROJECT_COPYRIGHT "Copyright 2020, The BLOC Money"
 #define APP_VER_MAJOR 3
 #define APP_VER_MINOR 5
 #define APP_VER_REV 1
