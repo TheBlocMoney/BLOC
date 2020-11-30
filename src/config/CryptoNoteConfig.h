@@ -2,7 +2,7 @@
 // Copyright (c) 2014-2018, The Monero Project
 // Copyright (c) 2018, The TurtleCoin Developers
 // Copyright (c) 2018, The BLOC Developers
-//
+// Copyright (c) 2020, The BLOC Money
 // Please see the included LICENSE file for more information.
 
 #pragma once
